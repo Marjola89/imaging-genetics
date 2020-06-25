@@ -84,7 +84,9 @@ Step 1:
 2,523 people any rare PAV (syndromic or not) vs 8,696 people have no
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
-
+<head>
+  <link rel="import" href="README_htmls/plot1.html">
+</head>
 Step 2A:
 --------
 
