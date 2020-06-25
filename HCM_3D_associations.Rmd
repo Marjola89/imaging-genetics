@@ -44,7 +44,6 @@ head(summarytable_meta)
 2,523 people any rare PAV (syndromic or not) vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging phenotypes).
 
 ```{r, echo=FALSE, message=FALSE, warning = FALSE}
-htmltools::includeHTML(("README_htmls/plot1.html"))
 
 library(plotly)
 Beta_wt<-as.data.frame(read.table("step1/HCM_beta_WT.txt"))
