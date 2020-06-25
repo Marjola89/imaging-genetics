@@ -44,6 +44,7 @@ head(summarytable_meta)
 2,523 people any rare PAV (syndromic or not) vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging phenotypes).
 
 ```{r, echo=FALSE, message=FALSE, warning = FALSE}
+htmltools::includeHTML(("README_htmls/plot1.html"))
 
 library(plotly)
 Beta_wt<-as.data.frame(read.table("step1/HCM_beta_WT.txt"))
@@ -85,7 +86,6 @@ p<-subplot(p1,p2) %>%
   layout(title = paste("\nWall thickness vs HCM (left) with no significant associations\nand Shape vs HCM (right) with no significant associations."),
          scene = list(domain=list(x=c(0,0.48),y=c(0.1,1)),xaxis = ax,yaxis = ax, zaxis = ax, dragmode="turntable"),
          scene2 = list(domain=list(x=c(0.48,1),y=c(0.1,1)),xaxis = ax,yaxis = ax, zaxis = ax, dragmode="turntable"),showlegend = FALSE)
-
 
             
 ```
