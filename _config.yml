@@ -1,12 +1,12 @@
-name: "cars"
-output_dir: "docs"
+name: "imaging-genetics"
+output_dir: "master"
 navbar:
-  title: "Cars"
+  title: "3D Associations"
   left:
   - text: "Home"
    href: index.html
-  - text: "Speed and Distance"
+  - text: "HCM_3D_associations"
    href: speed-and-distance.html
 output:
   html_document:
-  theme: jekyll-theme-slate
+ theme: jekyll-theme-slate
