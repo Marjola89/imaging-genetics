@@ -4,6 +4,7 @@ output: html_document
 code_folding: "hide"
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -33,7 +34,6 @@ P/LP = flagged as pathogenic or likely pathogenic\
 CC = CardioClassifier\
 
 ```{r, message=FALSE, warning=FALSE}
-library(data.table)
 summarytable_meta <- read.table("summarytable_meta.txt", header = TRUE)
 head(summarytable_meta)
 ```
