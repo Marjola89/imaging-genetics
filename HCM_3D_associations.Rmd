@@ -1,5 +1,7 @@
 ---
 title: "HCM_12k_Associations"
+html_document:
+  keep_md: true
 code_folding: "hide"
 ---
 
