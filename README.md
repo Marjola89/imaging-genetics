@@ -87,7 +87,6 @@ phenotypes).
 
 <style>
     iframe{
-        width: 100%; height:100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -137,7 +136,12 @@ Step 2B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-
+<style>
+    iframe{
+        width: 100%; height:100%;
+        border: 2px solid #ccc;
+    }
+</style>
 <body>
     <iframe src="README_htmls/plot2B.html" id="plot2b" style="border:none;" width="100%" height="100%"
     scrolling="auto"></iframe>
@@ -158,7 +162,12 @@ Step 3A:
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
 
-
+<style>
+    iframe{
+        width: 100%; height:100%;
+        border: 2px solid #ccc;
+    }
+</style>
 <body>
     <iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
@@ -180,7 +189,12 @@ Step 3B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-
+<style>
+    iframe{
+        width: 100%; height:100%;
+        border: 2px solid #ccc;
+    }
+</style>
 <body>
     <iframe src="README_htmls/plot3B.html" id="plot3B" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
@@ -202,6 +216,12 @@ Step 3A\_3B:
 P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
 and no CM flag by Kathryn’s analysis (clean set of non imaging
 
+<style>
+    iframe{
+        width: 100%; height:100%;
+        border: 2px solid #ccc;
+    }
+</style>
 <body>
     <iframe src="README_htmls/plot3AB.html" id="plot3ab" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
@@ -223,8 +243,12 @@ Step 4:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-
-
+<style>
+    iframe{
+        width: 100%; height:100%;
+        border: 2px solid #ccc;
+    }
+</style>
 <body>
     <iframe src="README_htmls/plot4.html" id="plot4" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
