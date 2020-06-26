@@ -1,6 +1,8 @@
 3D Associations
 ===============
 
+link to site: https://marjola89.github.io/imaging-genetics/
+
 The visualisation of cardiac imaging phenotypes derived from UK Biobank
 cardiovascular magnetic resonance (CMR) images across 50,000 subjects
 and to enable the exploration of their links to other non-imaging
@@ -85,8 +87,8 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-
-<img src="README_pngs/plot1.png" width="912"/>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" 
+src="README_htmls/plot1.html" height="525" width="100%"></iframe>
 
 Step 2A:
 --------
