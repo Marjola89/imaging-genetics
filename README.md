@@ -87,6 +87,7 @@ phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -111,7 +112,9 @@ no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
+    
     }
 </style>
 <body>
@@ -137,6 +140,7 @@ analysis (clean set of non imaging phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -162,6 +166,7 @@ vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -188,6 +193,7 @@ analysis (clean set of non imaging phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -215,6 +221,7 @@ phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -241,6 +248,7 @@ analysis (clean set of non imaging phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -258,5 +266,4 @@ analysis (clean set of non imaging phenotypes).
 </body>
 
 
-Link to site: https://marjola89.github.io/imaging-genetics/
-
+Link to site: [https://marjola89.github.io/imaging-genetics/](https://marjola89.github.io/imaging-genetics/)
