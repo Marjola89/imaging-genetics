@@ -1,7 +1,7 @@
 3D Associations
 ===============
 
-link to site: https://marjola89.github.io/imaging-genetics/
+Link to site: https://marjola89.github.io/imaging-genetics/
 
 The visualisation of cardiac imaging phenotypes derived from UK Biobank
 cardiovascular magnetic resonance (CMR) images across 50,000 subjects
@@ -87,7 +87,7 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-<iframe src="README_htmls/plot1.html" width="1000" height="800"></iframe>
+<iframe src="README_htmls/plot1.html" width="100%" height="500"></iframe>
 
 Step 2A:
 --------
@@ -96,7 +96,7 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
-<iframe src="README_htmls/plot2A.html" width="1000" height="800"></iframe>
+<iframe src="README_htmls/plot2A.html" width="100%" height="500"></iframe>
 
 Step 2B:
 --------
@@ -106,7 +106,7 @@ genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
 
-<iframe src="README_htmls/plot2B.html" width="912" height="200"></iframe>
+<iframe src="README_htmls/plot2B.html" width="100%" height="500"></iframe>
 
 Step 3A:
 --------
@@ -115,7 +115,7 @@ Step 3A:
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
 
-<iframe src="README_htmls/plot3A.html" width="1000" height="800"></iframe>
+<iframe src="README_htmls/plot3A.html" width="100%" height="500"></iframe>
 
 Step 3B:
 --------
@@ -125,7 +125,7 @@ genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
 
-<iframe src="README_htmls/plot3B.html" width="1000" height="800"></iframe>
+<iframe src="README_htmls/plot3B.html" width="100%" height="500"></iframe>
 
 Step 3A\_3B:
 ------------
@@ -136,7 +136,7 @@ and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
 
-<iframe src="README_htmls/plot3AB.html" width="1000" height="800"></iframe>
+<iframe src="README_htmls/plot3AB.html" width="100%" height="500"></iframe>
 
 Step 4:
 -------
@@ -146,4 +146,4 @@ genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
 
-<iframe src="README_htmls/plot4.html" width="1000" height="800"></iframe>
+<iframe src="README_htmls/plot4.html" width="100%" height="500"></iframe>
