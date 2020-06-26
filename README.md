@@ -85,8 +85,8 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
+<body>
     <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;" width: 100%; height:100%
-        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -96,6 +96,7 @@ phenotypes).
         iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
     }
     </script>
+</body>
 
 Step 2A:
 --------
@@ -104,8 +105,8 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
+<body>
     <iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;" width: 100%; height:100%
-        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -115,6 +116,7 @@ imaging phenotypes).
         iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
     }
     </script>
+</body>
 
 Step 2B:
 --------
@@ -123,9 +125,8 @@ Step 2B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-
+<body>
     <iframe src="README_htmls/plot2B.html" id="plot2b" style="border:none;" width: 100%; height:100%
-        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -135,6 +136,7 @@ analysis (clean set of non imaging phenotypes).
         iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
     }
     </script>
+</body>
 
 Step 3A:
 --------
