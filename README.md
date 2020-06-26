@@ -85,7 +85,9 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
+
 <img src="README_pngs/plot1.png" width="912"/>
+
 Step 2A:
 --------
 
@@ -93,7 +95,9 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
+
 <img src="README_pngs/plot2A.png" width="912"/>
+
 Step 2B:
 --------
 
@@ -101,7 +105,9 @@ Step 2B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
+
 <img src="README_pngs/plot2B.png" width="912"/>
+
 Step 3A:
 --------
 
@@ -109,7 +115,9 @@ Step 3A:
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
 
+
 <img src="README_pngs/plot3A.png" width="912"/>
+
 Step 3B:
 --------
 
@@ -117,7 +125,9 @@ Step 3B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
+
 <img src="README_pngs/plot3B.png" width="912"/>
+
 Step 3A\_3B:
 ------------
 
@@ -126,12 +136,15 @@ P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
 and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
+
 <img src="README_pngs/plot3AB.png" width="912"/>
+
 Step 4:
 -------
 
 12 people have a P/LP (CC), ClinVar, rare (FAF) variant in the 8 sarc
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
+
 
 <img src="README_pngs/plot4.png" width="912"/>
