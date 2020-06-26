@@ -89,6 +89,7 @@ phenotypes).
 
 <iframe src="README_htmls/plot1.html" scrolling="no" style="border:none;" width="100%" height="500"></iframe>
 
+
 Step 2A:
 --------
 
@@ -96,12 +97,24 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
-<iframe src="README_htmls/plot2A.html" frameborder="0" 
+<body>
+    <iframe src="README_htmls/plot2A.html" id="myIframe" frameborder="0" 
     marginheight="0" 
     marginwidth="0" 
     width="100%" 
     height="100%" 
     scrolling="auto"></iframe>
+    
+    <script>
+    // Selecting the iframe element
+    var iframe = document.getElementById("myIframe");
+    
+    // Adjusting the iframe height onload event
+    iframe.onload = function(){
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    </script>
+</body>
 
 Step 2B:
 --------
