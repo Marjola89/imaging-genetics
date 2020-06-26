@@ -1,8 +1,6 @@
 3D Associations
 ===============
 
-Link to site: https://marjola89.github.io/imaging-genetics/
-
 The visualisation of cardiac imaging phenotypes derived from UK Biobank
 cardiovascular magnetic resonance (CMR) images across 50,000 subjects
 and to enable the exploration of their links to other non-imaging
@@ -99,7 +97,7 @@ imaging phenotypes).
 
 <style>
     iframe{
-        width: 100%;
+        height: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -113,7 +111,7 @@ imaging phenotypes).
     
     // Adjusting the iframe height onload event
     iframe.onload = function(){
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
     }
     </script>
 </body>
@@ -167,3 +165,6 @@ analysis (clean set of non imaging phenotypes).
 
 
 <iframe src="README_htmls/plot4.html" scrolling="no" style="border:none;" width="100%" height="500"></iframe>
+
+
+Link to site: https://marjola89.github.io/imaging-genetics/
