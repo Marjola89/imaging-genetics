@@ -97,12 +97,11 @@ imaging phenotypes).
 
 <style>
     iframe{
-        height: 100%;
         border: 2px solid #ccc;
     }
 </style>
 <body>
-    <iframe src="README_htmls/plot2A.html" id="myIframe" frameborder="0"
+    <iframe src="README_htmls/plot2A.html" id="myIframe" style="border:none;"
     scrolling="auto"></iframe>
     
     <script>
@@ -112,6 +111,7 @@ imaging phenotypes).
     // Adjusting the iframe height onload event
     iframe.onload = function(){
         iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
     }
     </script>
 </body>
