@@ -88,11 +88,12 @@ phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
 <body>
-    <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;"
+    <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;" width="100%"
     scrolling="auto"></iframe>
     
     <script>
@@ -112,6 +113,7 @@ no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -138,7 +140,8 @@ analysis (clean set of non imaging phenotypes).
 
 <style>
     iframe{
-        border: 2px solid #ccc;
+       width: 100%;
+       border: 2px solid #ccc;
     }
 </style>
 <body>
@@ -163,7 +166,8 @@ vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 
 <style>
     iframe{
-        border: 2px solid #ccc;
+       width: 100%;
+       border: 2px solid #ccc;
     }
 </style>
 <body>
@@ -188,7 +192,8 @@ analysis (clean set of non imaging phenotypes).
 
 
 <style>
-    iframe{
+    iframe{       
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
@@ -216,6 +221,7 @@ phenotypes).
 
 <style>
     iframe{
+        width: 100%;
         border: 2px solid #ccc;
     }
 </style>
