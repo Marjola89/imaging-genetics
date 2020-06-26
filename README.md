@@ -96,7 +96,12 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
-<iframe src="README_htmls/plot2A.html" scrolling="no" style="border:none;" width="100%" height="500"></iframe>
+<iframe src="README_htmls/plot2A.html" frameborder="0" 
+    marginheight="0" 
+    marginwidth="0" 
+    width="100%" 
+    height="100%" 
+    scrolling="auto"></iframe>
 
 Step 2B:
 --------
