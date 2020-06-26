@@ -92,7 +92,7 @@ phenotypes).
     }
 </style>
 <body>
-    <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;" width="100%" height="100%"
     scrolling="auto"></iframe>
     
     <script>
@@ -118,7 +118,7 @@ imaging phenotypes).
     }
 </style>
 <body>
-    <iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;" width="100%" height="100%"
     scrolling="auto"></iframe>
     
     <script>
@@ -139,7 +139,7 @@ analysis (clean set of non imaging phenotypes).
 
 
 <body>
-    <iframe src="README_htmls/plot2B.html" id="plot2b" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot2B.html" id="plot2b" style="border:none;" width="100%" height="100%"
     scrolling="auto"></iframe>
     
     <script>
@@ -160,7 +160,7 @@ vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 
 
 <body>
-    <iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
@@ -182,7 +182,7 @@ analysis (clean set of non imaging phenotypes).
 
 
 <body>
-    <iframe src="README_htmls/plot3B.html" id="plot3B" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot3B.html" id="plot3B" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
@@ -203,7 +203,7 @@ P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
 and no CM flag by Kathryn’s analysis (clean set of non imaging
 
 <body>
-    <iframe src="README_htmls/plot3AB.html" id="plot3ab" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot3AB.html" id="plot3ab" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
@@ -226,7 +226,7 @@ analysis (clean set of non imaging phenotypes).
 
 
 <body>
-    <iframe src="README_htmls/plot4.html" id="plot4" style="border:none;" width: 100% height:100%
+    <iframe src="README_htmls/plot4.html" id="plot4" style="border:none;" width="100%" height="100%"
         border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
