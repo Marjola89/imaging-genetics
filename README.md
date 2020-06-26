@@ -85,14 +85,9 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    }
-</style>
 <body>
-    <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;"
+    <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -110,15 +105,10 @@ Step 2A:
 713 people have a rare PAV in the 8 sarcomere genes vs 8,696 people have
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    
-    }
-</style>
+
 <body>
-    <iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;"
+    <iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -138,14 +128,9 @@ genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
 
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    }
-</style>
 <body>
-    <iframe src="README_htmls/plot2B.html" id="plot2b" style="border:none;"
+    <iframe src="README_htmls/plot2B.html" id="plot2b" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -164,14 +149,10 @@ Step 3A:
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
 
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    }
-</style>
+
 <body>
-    <iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;"
+    <iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -191,14 +172,9 @@ genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
 
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    }
-</style>
 <body>
-    <iframe src="README_htmls/plot3B.html" id="plot3B" style="border:none;"
+    <iframe src="README_htmls/plot3B.html" id="plot3B" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -216,17 +192,10 @@ Step 3A\_3B:
 28 people have a P/LP (CC) rare (FAF) variant a ClinVar HCM rare (FAF)
 P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
 and no CM flag by Kathryn’s analysis (clean set of non imaging
-phenotypes).
 
-
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    }
-</style>
 <body>
-    <iframe src="README_htmls/plot3AB.html" id="plot3ab" style="border:none;"
+    <iframe src="README_htmls/plot3AB.html" id="plot3ab" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
@@ -246,14 +215,10 @@ genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
 
-<style>
-    iframe{
-        width: 100%;
-        border: 2px solid #ccc;
-    }
-</style>
+
 <body>
-    <iframe src="README_htmls/plot4.html" id="plot4" style="border:none;"
+    <iframe src="README_htmls/plot4.html" id="plot4" style="border:none;" width: 100%; height:100%
+        border: 2px solid #ccc;
     scrolling="auto"></iframe>
     
     <script>
