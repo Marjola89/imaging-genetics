@@ -85,7 +85,7 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-<iframe src="README_htmls/plot1.html" style="border:none;" scrolling="no" width="100%" height="600" ></iframe>
+<iframe src="README_htmls/plot1.html" style="border:none;" scrolling="auto" width="100%" height="600" ></iframe>
 
 Step 2A:
 --------
@@ -94,7 +94,7 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
-<iframe src="README_htmls/plot2A.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
+<iframe src="README_htmls/plot2A.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
 
 Step 2B:
 --------
@@ -112,7 +112,7 @@ Step 3A:
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
 
-<iframe src="README_htmls/plot3A.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
+<iframe src="README_htmls/plot3A.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
 
 Step 3B:
 --------
@@ -121,7 +121,7 @@ Step 3B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-<iframe src="README_htmls/plot3B.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
+<iframe src="README_htmls/plot3B.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
 
 Step 3A\_3B:
 ------------
@@ -131,7 +131,7 @@ P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
 and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-<iframe src="README_htmls/plot3AB.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
+<iframe src="README_htmls/plot3AB.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
 
 Step 4:
 -------
@@ -158,6 +158,5 @@ analysis (clean set of non imaging phenotypes).
     }
     </script>
 </body>
-
 
 Link to site: [https://marjola89.github.io/imaging-genetics/](https://marjola89.github.io/imaging-genetics/)
