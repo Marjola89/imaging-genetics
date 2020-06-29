@@ -144,16 +144,6 @@ phenotypes).
     scrolling="auto"></iframe>
     
     <script>
-    var iframe = document.getElementById("plot2a");
-    iframe.onload = function(){
-        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-    var iframe = document.getElementById("plot3a");
-    iframe.onload = function(){
-        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
     var iframe = document.getElementById("plot3ab");
     iframe.onload = function(){
         iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
