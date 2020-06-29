@@ -118,53 +118,5 @@ phenotypes).
     </script>
 </body>
 
-<iframe src="README_htmls/plot1.html" style="border:none;" scrolling="auto" width="100%" height="600" ></iframe>
-
-Step 2B:
---------
-
-395 people have a rare PAV (FAF for HCM) variant in the 8 sarcomere
-genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
-analysis (clean set of non imaging phenotypes).
-
-<iframe src="README_htmls/plot2B.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
-
-Step 3A:
---------
-
-23 people have a P/LP (CC) rare (FAF) variant in the 8 sarcomere genes
-vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
-(clean set of non imaging phenotypes).
-
-<iframe src="README_htmls/plot3A.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
-
-Step 3B:
---------
-
-17 people have a ClinVar HCM rare (FAF) P/LP variant in the 8 sarcomere
-genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
-analysis (clean set of non imaging phenotypes).
-
-<iframe src="README_htmls/plot3B.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
-
-Step 3A\_3B:
-------------
-
-28 people have a P/LP (CC) rare (FAF) variant a ClinVar HCM rare (FAF)
-P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
-and no CM flag by Kathryn’s analysis (clean set of non imaging
-phenotypes).
-
-<iframe src="README_htmls/plot3AB.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
-
-Step 4:
--------
-
-12 people have a P/LP (CC), ClinVar, rare (FAF) variant in the 8 sarc
-genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
-analysis (clean set of non imaging phenotypes).
-
-<iframe src="README_htmls/plot4.html" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
-
 
 Link to site: [https://marjola89.github.io/imaging-genetics/](https://marjola89.github.io/imaging-genetics/)
