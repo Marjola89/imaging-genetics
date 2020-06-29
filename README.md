@@ -95,23 +95,8 @@ Step 2A:
 713 people have a rare PAV in the 8 sarcomere genes vs 8,696 people have
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
-<style>
-    iframe{
-        border: 2px solid #ccc;
-    }
-</style>
-<body>
-    <iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;"
-    scrolling="auto"></iframe>
-    
-    <script>
-    var iframe = document.getElementById("plot2a");
-    iframe.onload = function(){
-        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-    </script>
-</body>
+
+<iframe src="README_htmls/plot2A.html" id="plot2a" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
 
 Step 2B:
 --------
@@ -129,24 +114,7 @@ Step 3A:
 23 people have a P/LP (CC) rare (FAF) variant in the 8 sarcomere genes
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
-
-<style>
-    iframe{
-        border: 2px solid #ccc;
-    }
-</style>
-<body>
-    <iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;"
-    scrolling="auto"></iframe>
-    
-    <script>
-    var iframe = document.getElementById("plot3a");
-    iframe.onload = function(){
-        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-    </script>
-</body>
+<iframe src="README_htmls/plot3A.html" id="plot3a" style="border:none;" scrolling="auto" width="100%" height="600"></iframe>
 
 Step 3B:
 --------
@@ -176,6 +144,16 @@ phenotypes).
     scrolling="auto"></iframe>
     
     <script>
+    var iframe = document.getElementById("plot2a");
+    iframe.onload = function(){
+        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    var iframe = document.getElementById("plot3a");
+    iframe.onload = function(){
+        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
     var iframe = document.getElementById("plot3ab");
     iframe.onload = function(){
         iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
