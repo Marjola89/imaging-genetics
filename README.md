@@ -121,7 +121,7 @@ CC = CardioClassifier
     }
     </script>
     
-    <h4> Link to site: <a href= "https://marjola89.github.io/imaging-genetics/"> https://marjola89.github.io/imaging-genetics/ </a>
+    <h4> Link to site: <a href= "https://marjola89.github.io/imaging-genetics/"> https://marjola89.github.io/imaging-genetics/ </a></h4>
     
 </body>
 </html>
