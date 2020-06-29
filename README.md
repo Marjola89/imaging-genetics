@@ -85,7 +85,7 @@ Step 1:
 rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-<iframe src="README_htmls/plot1.html" style="border:none;" scrolling="no" width="100%" height="100%" ></iframe>
+<iframe src="README_htmls/plot1.html" style="border:none;" scrolling="no" width="100%" height="600" ></iframe>
 
 Step 2A:
 --------
@@ -94,7 +94,7 @@ Step 2A:
 no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
 imaging phenotypes).
 
-<iframe src="README_htmls/plot2A.html" style="border:none;" scrolling="no" width="100%" height="100%"></iframe>
+<iframe src="README_htmls/plot2A.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
 
 Step 2B:
 --------
@@ -103,7 +103,23 @@ Step 2B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-<iframe src="README_htmls/plot2B.html" style="border:none;" scrolling="no" width="100%" height="100%"></iframe>
+<style>
+    iframe{
+        border: 2px solid #ccc;
+    }
+</style>
+<body>
+    <iframe src="README_htmls/plot2B.html" id="plot2B" style="border:none;"
+    scrolling="auto"></iframe>
+    
+    <script>
+    var iframe = document.getElementById("plot2B");
+    iframe.onload = function(){
+        iframe.style.width = iframe.contentWindow.document.body.scrollWidth + 'px';
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    </script>
+</body>
 
 Step 3A:
 --------
@@ -112,7 +128,7 @@ Step 3A:
 vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis
 (clean set of non imaging phenotypes).
 
-<iframe src="README_htmls/plot3A.html" style="border:none;" scrolling="no" width="100%" height="100%"></iframe>
+<iframe src="README_htmls/plot3A.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
 
 Step 3B:
 --------
@@ -121,7 +137,7 @@ Step 3B:
 genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s
 analysis (clean set of non imaging phenotypes).
 
-<iframe src="README_htmls/plot3B.html" style="border:none;" scrolling="no" width="100%" height="100%"></iframe>
+<iframe src="README_htmls/plot3B.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
 
 Step 3A\_3B:
 ------------
@@ -131,7 +147,7 @@ P/LP variant in the 8 sarcomere genes vs 8,696 people have no rare PAV
 and no CM flag by Kathryn’s analysis (clean set of non imaging
 phenotypes).
 
-<iframe src="README_htmls/plot3AB.html" style="border:none;" scrolling="no" width="100%" height="100%"></iframe>
+<iframe src="README_htmls/plot3AB.html" style="border:none;" scrolling="no" width="100%" height="600"></iframe>
 
 Step 4:
 -------
