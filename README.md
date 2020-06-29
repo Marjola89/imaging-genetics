@@ -78,12 +78,10 @@ CC = CardioClassifier
     ## 5          0          0          0         0             0
     ## 6          0          0          0         0             0
 
-Step 1:
--------
 
-2,523 people any rare PAV (syndromic or not) vs 8,696 people have no
-rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
-phenotypes).
+<!DOCTYPE html>
+<html>
+   
 
 <style>
     iframe{
@@ -91,6 +89,12 @@ phenotypes).
     }
 </style>
 <body>
+    
+    <h1> Step 1: </h1>
+    <h4> 2,523 people any rare PAV (syndromic or not) vs 8,696 people have no
+         rare PAV and no CM flag by Kathryn’s analysis (clean set of non imaging
+         phenotypes)</h4>
+          
     <iframe src="README_htmls/plot1.html" id="plot1" style="border:none;"
     scrolling="auto"></iframe>
     
@@ -103,8 +107,8 @@ phenotypes).
     </script>
     
     <h1> Step 2A: </h1>
-    <p><h4> 713 people have a rare PAV in the 8 sarcomere genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
-           imaging phenotypes).</h4></p>
+    <h4> 713 people have a rare PAV in the 8 sarcomere genes vs 8,696 people have no rare PAV and no CM flag by Kathryn’s analysis (clean set of non
+           imaging phenotypes).</h4>
     
     <iframe src="README_htmls/plot2A.html" id="plot2A" style="border:none;"
     scrolling="auto"></iframe>
@@ -116,7 +120,10 @@ phenotypes).
         iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
     }
     </script>
+    
+    <h4> Link to site: <a href= "https://marjola89.github.io/imaging-genetics/"> https://marjola89.github.io/imaging-genetics/ </a>
+    
 </body>
+</html>
 
 
-Link to site: [https://marjola89.github.io/imaging-genetics/](https://marjola89.github.io/imaging-genetics/)
